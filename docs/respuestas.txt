@@ -1,1 +1,6 @@
 respuesta a las preguntas
+
+Respuesta a la pregunta ¿Qué es clonar?
+
+Es crear una copia local de algo que ya existe
+
